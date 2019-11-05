@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/githubfinderApp/static/css/main.f65227a3.chunk.css",
+    "main.js": "/githubfinderApp/static/js/main.86b849f5.chunk.js",
+    "main.js.map": "/githubfinderApp/static/js/main.86b849f5.chunk.js.map",
+    "runtime~main.js": "/githubfinderApp/static/js/runtime~main.39cff7ca.js",
+    "runtime~main.js.map": "/githubfinderApp/static/js/runtime~main.39cff7ca.js.map",
+    "static/js/2.82aebd89.chunk.js": "/githubfinderApp/static/js/2.82aebd89.chunk.js",
+    "static/js/2.82aebd89.chunk.js.map": "/githubfinderApp/static/js/2.82aebd89.chunk.js.map",
+    "index.html": "/githubfinderApp/index.html",
+    "precache-manifest.fd19fdbe0311a8d18e809bc27050fdd0.js": "/githubfinderApp/precache-manifest.fd19fdbe0311a8d18e809bc27050fdd0.js",
+    "service-worker.js": "/githubfinderApp/service-worker.js",
+    "static/css/main.f65227a3.chunk.css.map": "/githubfinderApp/static/css/main.f65227a3.chunk.css.map"
+  }
+}
